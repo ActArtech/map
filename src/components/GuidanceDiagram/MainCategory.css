@@ -1,0 +1,8 @@
+.main-category circle:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.main-category text {
+  pointer-events: none;
+}
